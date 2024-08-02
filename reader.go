@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/youpy/go-riff"
-	"github.com/zaf/g711"
+	"github.com/toorpia/g711"
 )
 
 type Reader struct {
